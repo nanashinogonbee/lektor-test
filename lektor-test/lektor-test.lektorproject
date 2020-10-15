@@ -1,0 +1,8 @@
+[project]
+name = lektor-test
+url_style=absolute
+
+
+[servers.ghpages]
+name = Prod
+target = ghpages+https://nanashinogonbee:cfac497f3cbb7329cb4b87b6e127d1d6e00422ea@lektor-test/
